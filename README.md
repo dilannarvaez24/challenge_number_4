@@ -5,7 +5,7 @@ In this repository you´ll find how to build pseudocode and how to find prime nu
 
 
 
-##:stars: How to build pseudocode to find prime numbers :stars:##
+## :stars: How to build pseudocode to find prime numbers :stars:##
 
 Bearing in mind you already knew about pseudocode, what is it and how to work with it, thenext step is build it. 
 
