@@ -33,5 +33,5 @@ Taking as example one of the previous challenges and examples given by the teach
 					If more than 2i are factors
 						Then write ("i is not prime number")
 					If not 
-					write +(i is prime number)
+					write ("i is prime number")
 	End while
