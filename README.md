@@ -5,8 +5,12 @@ In this repository you´ll find how to build pseudocode and how to find prime nu
 
 
 
-## :stars: How to build pseudocode to find prime numbers :stars: ##
+# :stars: How to build pseudocode to find prime numbers :stars: #
 
 Bearing in mind you already knew about pseudocode, what is it and how to work with it, thenext step is build it. 
 
-With that being said, there are some important things you have to take into account when building pseudocode. The first one is to find what you are looking for. This case, we are interesetd in finding 
+With that being said, there are some important things you have to take into account when building pseudocode. The first one is to find what you are looking for. This case, we are interesetd in finding a way to determine what are the prime numbers and how to find them through pseudocode building. :computer:
+
+###What I did? :build: 
+
+First of all, I searched in the web what the prime numbers are. What I found was that prime numbers are indeed just numbers greater than one and which have only two factors (one and his own self)
