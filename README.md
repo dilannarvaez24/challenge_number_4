@@ -21,17 +21,16 @@ Taking as example one of the previous challenges and examples given by the teach
 
 ###### Pseudocode 💾
 
-
-    i:integer
-	start
-	i: = 1
-	n: = (n^0.5) + 1
-	while (i < n)
-		If module (n,i): == 0
-			Then
-				write ("i is factor of n")
-					If more than 2i are factors
-						Then write ("i is not prime number")
-					If not 
-					write ("i is prime number")
-	End while
+i:integer
+start
+    i: = 1
+    n: = (n^0.5) + 1
+    while (i < n)
+      If module (n,i): == 0
+        Then
+          write ("i is factor of n")
+            If more than 2i are factors
+              Then write ("i is not prime number")
+            If not 
+              write ("i is prime number")
+End while
