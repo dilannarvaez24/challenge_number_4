@@ -20,7 +20,7 @@ First of all, I searched in the web what the prime numbers are. What I found was
 Taking as example one of the previous challenges and examples given by the teacher, I built the pseudocode from a theory of how to find when a number is factor or not of another number. For building this pseudocode I´ve taken into account some variables as "while", "then". "if", etc. Now, I´ll share a little bit of the pseudocode I created an what I took as first attempt of pseudocode:
 
 ###### Pseudocode 💾
-$$
+$
 i:integer
 start
     i: = 1
@@ -34,4 +34,4 @@ start
             If not 
               write ("i is prime number")
 End while
-$$
+$
