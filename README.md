@@ -21,8 +21,7 @@ Taking as example one of the previous challenges and examples given by the teach
 
 ###### Pseudocode 💾
 
-```
-
+´´´´
 i:integer
 start
     i: = 1
