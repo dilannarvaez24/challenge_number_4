@@ -36,8 +36,9 @@ Then write ("i is factor of n")
 
 #### Another way to see this 🏗️
 
-As mentioned at the begining of this repository, we´ll also work with flowcharts, and for that reason I´ll show you how the pseudocode could be rewritten in a flowchart way. To do so we have to bear in mind the different shapes a flowchart has and according to it, we will build it. To make it easy, I´ll include below the most important (and basic) flowhcart shapes that will work like a guidelines for its building:
+As mentioned at the begining of this repository, we´ll also work with flowcharts, and for that reason I´ll show you how the pseudocode could be rewritten in a flowchart way. To do so we have to bear in mind the different shapes a flowchart has and according to it, we will build our flowchart. To make it easy, I´ll include below the most important (and basic) flowhcart shapes that will work like a guidelines for its building:
 
 [![flowchart-shapes.jpg](https://i.postimg.cc/vmtg36mg/flowchart-shapes.jpg)](https://postimg.cc/rdzwpsxM)
 
+As you could be deducting or specualting, everything here is about the conditions a process could have. You can choose between two options, or decide *if* you want to do something and *then* reproduce or show something. You follow me?  
 
