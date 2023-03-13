@@ -40,5 +40,7 @@ As mentioned at the begining of this repository, we´ll also work with flowchart
 
 [![flowchart-shapes.jpg](https://i.postimg.cc/vmtg36mg/flowchart-shapes.jpg)](https://postimg.cc/rdzwpsxM)
 
-As you could be deducting or specualting, everything here is about the conditions a process could have. You can choose between two options, or decide *if* you want to do something and *then* reproduce or show something. You follow me?  
+As you could be deducting or specualting, everything here is about the conditions a process could have. You can choose between two options, or decide *if* you want to do something and *then* reproduce or show something. You follow me?  That was enough of working around it, I´ll show you how the flowchart looks like below:
+
+[![Prime-numbers-flowchart.png](https://i.postimg.cc/pVfGKPzm/Prime-numbers-flowchart.png)](https://postimg.cc/CdKsgTv0)
 
